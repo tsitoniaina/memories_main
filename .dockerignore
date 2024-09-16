@@ -1,0 +1,9 @@
+./code/node_modules
+./code/.idea
+./code/apps/isomorphic/node_modules
+./code/apps/isomorphic/.next
+./code/apps/isomorphic-i18n/node_modules
+./code/apps/isomorphic-i18n/.next
+./code/apps/isomorphic-starter/node_modules
+./code/apps/isomorphic-i18n/.next
+.vscode
